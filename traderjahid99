@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trader Jahid - Learn Smart Trading</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+<h1>Trader Jahid</h1>
+<p>Learn Smart Trading</p>
+
+<nav>
+
+<a href="#home">Home</a>
+<a href="#signals">Signals</a>
+<a href="#course">Free Course</a>
+<a href="#youtube">YouTube</a>
+<a href="#contact">Contact</a>
+
+</nav>
+
+</header>
+
+
+<section id="home" class="hero">
+
+<h2>Learn Trading With Jahid</h2>
+
+<p>
+Hi আমি ট্রেডার জাহিদ।  
+২ বছরের Experience নিয়ে ফ্রি ট্রেডিং শিখাচ্ছি এবং  
+Telegram Channel এ Free Signal দিয়ে আসছি।
+</p>
+
+<a class="btn" href="https://t.me/+CoEDa7LmobNiYzBk">Join Telegram</a>
+
+</section>
+
+
+<section id="signals">
+
+<h2>Quotex Free Signals</h2>
+
+<div class="box">
+
+<p>Daily Free Signal</p>
+<p>90-95% Accuracy</p>
+<p>Risk Management Strategy</p>
+
+</div>
+
+</section>
+
+
+<section id="course">
+
+<h2>Free Trading Course</h2>
+
+<div class="grid">
+
+<div class="card">Trading Basics</div>
+<div class="card">Price Action</div>
+<div class="card">Support & Resistance</div>
+<div class="card">Risk Management</div>
+
+</div>
+
+</section>
+
+
+<section id="youtube">
+
+<h2>YouTube Videos</h2>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed?listType=user_uploads&list=traderjahid99">
+</iframe>
+
+<br>
+
+<a class="btn" href="https://www.youtube.com/@traderjahid99">Subscribe Channel</a>
+
+</section>
+
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Whatsapp : +966506383427</p>
+
+<p>Email : rexjahidnew@gmail.com</p>
+
+<p>Location : Cumilla Bangladesh</p>
+
+</section>
+
+
+<footer>
+
+<p>Follow Me</p>
+
+<a href="https://t.me/+CoEDa7LmobNiYzBk">Telegram</a> |
+
+<a href="https://www.tiktok.com/@trader.jahid99">TikTok</a> |
+
+<a href="https://www.facebook.com/share/1D3FiAdRmS/">Facebook</a>
+
+<p>© 2026 Trader Jahid</p>
+
+</footer>
+
+</body>
+
+</html>
